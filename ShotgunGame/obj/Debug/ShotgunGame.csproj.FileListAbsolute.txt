@@ -1,0 +1,10 @@
+C:\Users\Oz\source\repos\ShotgunGame\ShotgunGame\bin\Debug\ShotgunGame.exe.config
+C:\Users\Oz\source\repos\ShotgunGame\ShotgunGame\bin\Debug\ShotgunGame.exe
+C:\Users\Oz\source\repos\ShotgunGame\ShotgunGame\bin\Debug\ShotgunGame.pdb
+C:\Users\Oz\source\repos\ShotgunGame\ShotgunGame\obj\Debug\ShotgunGame.Form1.resources
+C:\Users\Oz\source\repos\ShotgunGame\ShotgunGame\obj\Debug\ShotgunGame.Properties.Resources.resources
+C:\Users\Oz\source\repos\ShotgunGame\ShotgunGame\obj\Debug\ShotgunGame.csproj.GenerateResource.cache
+C:\Users\Oz\source\repos\ShotgunGame\ShotgunGame\obj\Debug\ShotgunGame.csproj.CoreCompileInputs.cache
+C:\Users\Oz\source\repos\ShotgunGame\ShotgunGame\obj\Debug\ShotgunGame.exe
+C:\Users\Oz\source\repos\ShotgunGame\ShotgunGame\obj\Debug\ShotgunGame.pdb
+C:\Users\oz\source\repos\ShotgunGame\ShotgunGame\obj\Debug\ShotgunGame.csproj.AssemblyReference.cache
